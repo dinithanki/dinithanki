@@ -79,13 +79,9 @@ const dinith = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dinithanki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=60a5fa&text_color=c9d1d9&rank_icon=github" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=dinithanki&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=f472b6&currStreakLabel=A78BFA&sideLabels=60a5fa&currStreakNum=ffffff&sideNums=ffffff" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=dinithanki&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=f472b6&currStreakLabel=A78BFA&sideLabels=60a5fa&currStreakNum=ffffff&sideNums=ffffff" />
 </div>
 
-<div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinithanki&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" />
-</div>
 
 ---
 
