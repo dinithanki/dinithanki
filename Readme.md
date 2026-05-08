@@ -100,18 +100,31 @@ const dinith = {
 </div>
 
 ---
-
 ## 🎮 Featured Project — Browser Game
 
 <div align="center">
 
+<!-- Game Preview GIF (Optimized Size) -->
 <a href="https://game-lac-theta.vercel.app/">
-  <img src="https://img.shields.io/badge/🕹️%20Play%20Live-game--lac--theta.vercel.app-A78BFA?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
+  <img 
+    src="./assets/game-preview.gif"
+    width="65%"
+    alt="Browser Game Preview"
+  />
+</a>
+
+<br/><br/>
+
+<!-- Play Button -->
+<a href="https://game-lac-theta.vercel.app/">
+  <img 
+    src="https://img.shields.io/badge/🕹️%20Play%20Game-Live%20Demo-A78BFA?style=for-the-badge&logoColor=white&labelColor=0d1117"
+  />
 </a>
 
 </div>
 
-<br/>
+---
 
 ```js
 const project = {
@@ -123,8 +136,8 @@ const project = {
 };
 ```
 
-> Built from scratch with **zero frameworks** — pure **Vanilla JavaScript** on the frontend and **Node.js** on the backend. No installs, no setup. Just open the link and play. 🕹️
-
+> Built from scratch using **Vanilla JavaScript + Node.js**.  
+> No frameworks, no setup — just open and play 🕹️
 ---
 
 ## 🚀 What I'm Building
