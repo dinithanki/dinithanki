@@ -140,13 +140,15 @@ const project = {
 > No frameworks, no setup — just open and play 🕹️
 ---
 
-## 🚀 What I'm Building
+## 🚀 Current Projects
 
 | 🔨 Project | 🧠 Description | 🛠 Stack | 🚦 Status |
 |---|---|---|---|
-| **🍽️ Restaurant Management System** | Full-featured MERN stack app for restaurant operations — menus, orders & reservations | MongoDB, Express, React, Node.js | 🟡 In Progress |
-| **📦 Inventory Management System** | Full stack system to track stock, suppliers & transactions with a clean dashboard UI | React, Node.js, MySQL | 🟡 In Progress |
-
+| **🎓 LMS Microservices Platform** | Enterprise-grade Learning Management System built with microservices architecture, secure authentication, course management, quizzes, notifications, and Dockerized deployment. | Spring Boot, React, PostgreSQL, Docker, Kafka, AWS | 🟡 Ongoing |
+| **🤖 EnterpriseIQ – AI Knowledge Assistant** | Enterprise Retrieval-Augmented Generation (RAG) platform enabling intelligent document search, semantic retrieval, and AI-powered question answering over organizational knowledge. | FastAPI, LangChain, FAISS, Hugging Face, Docker, AWS | 🟢 Completed |
+| **💬 Chat Mania** | Real-time messaging platform featuring JWT authentication, friend management, online presence, media sharing, and Socket.IO-powered communication. | React, Node.js, Express, MongoDB, Socket.IO | 🟢 Completed |
+| **🍽️ Dragon Dine** | Full-stack restaurant management system with online ordering, reservations, authentication, and responsive user experience. | React, Node.js, Express, MongoDB | 🟢 Completed |
+| **🎮 Browser Play Game** | Browser-based arcade game developed from scratch using Vanilla JavaScript with a lightweight Node.js backend. | JavaScript, HTML5, CSS3, Node.js | 🟢 Completed |
 ---
 
 ## 🌱 Currently Exploring
